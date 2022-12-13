@@ -37,6 +37,10 @@ h1 {
     text-align: center;
 }
 
-countdown-el span {
+.countdown-el span {
     font-size: 1.3rem;
+}
+
+#seconds {
+    color: rgb(139,0,0);
 }
